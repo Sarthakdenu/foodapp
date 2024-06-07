@@ -1,0 +1,3 @@
+[submodule "foodappfrontend"]
+	path = foodappfrontend
+	url = https://github.com/Sarthakdenu/foodappfrontend.git
